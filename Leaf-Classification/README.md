@@ -1,5 +1,5 @@
 Leaf Classification
-We Used  10 classification technique and printing their results. These will perform much better after tuning their Hyperparameters, this gives you a decent ballpark idea.
+<br>We Used  10 classification technique and printing their results. These will perform much better after tuning their Hyperparameters, this gives you a decent ballpark idea.
 
 - KNeighborsClassifier
 - SVC(Support Vector Classifier)
