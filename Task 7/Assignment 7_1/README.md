@@ -1,0 +1,2 @@
+ This is a salary data set with respect to years of experience 
+ Implement gradient descent (for simple linear regression) from scratch.
